@@ -64,7 +64,8 @@ CarPool is a scalable, full-stack ride-sharing platform that connects drivers an
 
 
 ### Publish Trip
-![Uploading image.png…]()
+<img width="1440" height="763" alt="image" src="https://github.com/user-attachments/assets/57bed107-c93d-49ca-9cec-063ac43ac11c" />
+
 
 
 
@@ -386,4 +387,5 @@ docker-compose up -d
 ---
 
 **Happy Carpooling! 🚗💨**
+
 
