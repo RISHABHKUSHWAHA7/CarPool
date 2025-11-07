@@ -40,6 +40,36 @@ CarPool is a scalable, full-stack ride-sharing platform that connects drivers an
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/7a40116b-e8d3-48ed-ac2e-db690cf28d51" />
+
+
+### Ride Search
+<img width="1440" height="570" alt="image" src="https://github.com/user-attachments/assets/f5523703-8c7a-4c4c-bdb2-c2a5f12c99c4" />
+
+
+
+### Booking Page
+<img width="1440" height="462" alt="image" src="https://github.com/user-attachments/assets/e06d7361-41f8-47c0-838d-57cf49014158" />
+
+
+### User Dashboard
+<img width="1440" height="484" alt="image" src="https://github.com/user-attachments/assets/4c3808aa-72e0-414b-9cde-a60b799722a2" />
+
+
+### Wallet & Payments
+<img width="763" height="703" alt="image" src="https://github.com/user-attachments/assets/dfd531ac-fb26-4928-9cb3-f50f6ba01536" />
+
+
+### Publish Trip
+![Uploading image.png…]()
+
+
+
+---
+
 ## 🔑 Google Maps API Key
 - Autocomplete used for source/destination input.
 - Prevents user errors (e.g., typos or invalid locations).
@@ -209,49 +239,6 @@ See `.env.example` file for a complete list of required environment variables.
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](./screenshots/home.png)
-*Landing page with hero section and ride search functionality*
-
-### Ride Search
-![Ride Search](./screenshots/search.png)
-*Search for available rides with Google Maps autocomplete*
-
-### Ride Listings
-![Ride Listings](./screenshots/listings.png)
-*Browse available rides with detailed information*
-
-### Booking Page
-![Booking Page](./screenshots/booking.png)
-*Book a ride and view trip details*
-
-### Real-Time Chat
-![Chat Interface](./screenshots/chat.png)
-*In-app messaging between drivers and passengers*
-
-### User Dashboard
-![Dashboard](./screenshots/dashboard.png)
-*Manage your rides, bookings, and profile*
-
-### Wallet & Payments
-![Wallet](./screenshots/wallet.png)
-*Add funds and manage payments through Razorpay*
-
-### Driver Profile
-![Driver Profile](./screenshots/driver-profile.png)
-*View driver information and ratings*
-
-### Publish Trip
-![Publish Trip](./screenshots/publish-trip.png)
-*Drivers can publish new trips with route details*
-
-### User Profile
-![User Profile](./screenshots/profile.png)
-*Manage your personal information and preferences*
-
----
 
 ## 🗂️ Project Structure
 
@@ -399,3 +386,4 @@ docker-compose up -d
 ---
 
 **Happy Carpooling! 🚗💨**
+
