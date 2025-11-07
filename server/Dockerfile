@@ -8,13 +8,13 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies
-RUN npm ci --only=production
+RUN npm install --only=production
 
 # Copy application source code
 COPY . .
 
 # Expose the port the app runs on
-EXPOSE 8001
+EXPOSE 8000
 
 # Set environment to production
 ENV NODE_ENV=production

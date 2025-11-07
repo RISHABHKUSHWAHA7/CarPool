@@ -10,12 +10,15 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies
-RUN npm ci --silent
+RUN npm install --legacy-peer-deps
 
 # Copy application files
 COPY . .
 
-# Build the application
+# Copy .env file to build context
+COPY .env .env
+
+# Build the application with environment variables
 RUN npm run build
 
 # Stage 2: Serve with nginx
